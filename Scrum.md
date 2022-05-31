@@ -1,5 +1,5 @@
 # SCRUM - QUY TRÌNH PHÁT TRIỂN PHẦN MỀM
-- Tìm hiểu thêm các mô hình : waterfal, V-model, Spriral model (xoắn ốc), Incremental model
+- Tìm hiểu thêm các mô hình : waterfal, V-model
 
 - Deliverable Product : 
 - Sprint : Là 1 giai đoạn phát triển của phần mềm, bao gồm các bước :
