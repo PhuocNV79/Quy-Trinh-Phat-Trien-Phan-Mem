@@ -30,3 +30,5 @@
      * cần support những gì
      * cái gì không làm được
     + Sprint review - Sprint retrorespective meeting : Demo cho product owner những thứ mình đã làm được trong 1 sprint
+
+![MicrosoftTeams-image](https://user-images.githubusercontent.com/96764572/171109481-55a35e03-9d6c-448f-8218-9b3f9ae041dc.png)
