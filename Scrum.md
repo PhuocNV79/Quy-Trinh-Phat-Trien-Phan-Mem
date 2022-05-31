@@ -2,7 +2,7 @@
 - Tìm hiểu thêm waterfall
 
 - Deliverable Product : 
-- Sprint : Là 1 giai đo phát triển của phần mềm, bao gồm các bước :
+- Sprint : Là 1 giai đoạn phát triển của phần mềm, bao gồm các bước :
   + Plan : 
   + Build : 
   + Test : 
@@ -17,8 +17,16 @@
   + I need ...
   + So that ....
 - Sprint Backlog : chứa các user story của 1 sprint cụ thể
-- Burndown chart : Biểu đồ thể hiện số lượng task, story point tương ứng với thời gian tồn tại của 1 sprint
+- Burndown chart của 1 sprint: Biểu đồ thể hiện số lượng task, story point tương ứng với thời gian tồn tại của 1 sprint
   + trục X : thời gian
-  + trục Y : story point
+  + trục Y : story point (thường sẽ dùng dãy số fibonaci để gán điểm cho từng task)
   + mục tiêu: ngày 0 thì story poin  = max, ngày cuối thì story point = 0
--
+- Meetings: 
+   + Sprint planning: buổi meeting này nhằm mục đích thảo luận lấy cái user story nào để đặt vào sprint backlog, buổi họp ni sẽ được tổ chức trước khi bắt đầu 1 sprint
+     * estimate task : dự đoán story point cho các task sẽ làm trong sprint backlog
+   + Daily stand up meeting : Đồng bộ hoá tất cả tin tức của mọi người trong team
+     * report hôm qua làm gì, hôm nay làm gì
+     * đưa ra những khó khăn của mình
+     * cần support những gì
+     * cái gì không làm được
+    + Sprint review - Sprint retrorespective meeting : Demo cho product owner những thứ mình đã làm được trong 1 sprint
